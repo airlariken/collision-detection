@@ -10,7 +10,7 @@
 
 #include "state.hpp"
 #define ball_r 1  //定义半径
-//定义边界
+//定义边界啊
 
 class ball
 {
